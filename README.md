@@ -1,4 +1,4 @@
-# International Students in the UK — Barriers & Pathways
+# International Students in the UK - Barriers & Pathways
 ## By Fawaz Ayofe | University of Sunderland
 
 ## My Story
@@ -34,10 +34,10 @@ By combining data with lived experience, it aims to shed light on these moments 
   - Assign a financial advisor to every international student
 
 ## Data Sources
-  - HESA (Higher Education Statistics Agency) — international student numbers
-  - Home Office Immigration Statistics — Graduate Route visa data
-  - NUS International Student Finance Survey — payment outcome estimates
-  - University websites — installment plan details
+  - HESA (Higher Education Statistics Agency) - international student numbers
+  - Home Office Immigration Statistics - Graduate Route visa data
+  - NUS International Student Finance Survey - payment outcome estimates
+  - University websites - installment plan details
 
 ## Tools Used
   - Python
