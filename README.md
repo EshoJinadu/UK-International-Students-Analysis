@@ -1,4 +1,4 @@
-# International Students in the UK - Barriers & Pathways
+# International Students in the United Kingdom - Barriers & Pathways
 ## By Fawaz Ayofe | University of Sunderland
 
 ## My Story
