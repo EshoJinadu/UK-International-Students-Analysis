@@ -45,3 +45,6 @@ By combining data with lived experience, it aims to shed light on these moments 
   - Matplotlib
   - Seaborn
   - Jupyter Notebook
+  - Git
+  - PowerShell
+  - GitHub
